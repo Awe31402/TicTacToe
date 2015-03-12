@@ -4,7 +4,7 @@ public class TicTacToe
 {
 	public static void main(String[] args)
 	{
-		int player = 1;
+		int player = 0;
 		int winner = 0;
 		int current = 0;
 		int row, col;
